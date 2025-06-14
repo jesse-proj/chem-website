@@ -1,0 +1,26 @@
+[1mdiff --git a/contributors.html b/contributors.html[m
+[1mindex ea6bebf..dd5c3f2 100644[m
+[1m--- a/contributors.html[m
+[1m+++ b/contributors.html[m
+[36m@@ -3,7 +3,7 @@[m
+ <html>[m
+ [m
+ 	<head>[m
+[31m-		<title> CHEM WEBSITE </title>[m
+[32m+[m		[32m<title> CHEM LMAO </title>[m[41m[m
+ 		<link rel = 'stylesheet' href = 'stylesheets/home.css'/>[m
+ 	</head>[m
+ [m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex bf2fdb0..ba027de 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -11,7 +11,7 @@[m
+ 		<div style = 'position: relative; left: -10px;'>[m
+ [m
+ 			<div class = 'home-navbar'>[m
+[31m-				<a href = 'index.html'> <p> Home </p> </a>[m
+[32m+[m				[32m<a href = 'index.html'> <p> Home Test </p> </a>[m[41m[m
+ 				<a href = 'contributors.html'> <p> Contributors </p> </a>[m
+ 			</div>[m
+ [m
